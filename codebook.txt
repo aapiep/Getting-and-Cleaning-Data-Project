@@ -2,12 +2,12 @@ CODEBOOK FOR
 Human Activity Recognition Using Smartphones Data Set 
 Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-NAME	POSITION	VALUES	EXPLANATION
-subject	1			1-7	    The subject having contributed the measurement data
-activity	2	1 = WALKING
-				2 = WALKING_UPSTAIRS
-				3 = WALKING_DOWNSTAIRS
-				4 = SITTING
-				5 = STANDING
-				6 = LAYING
-means	3-70		Means by subject/activity of a variety of motional measurements
+NAME	POSITION		VALUES		EXPLANATION
+subject		1			1-7	    	The subject having contributed the measurement data
+activity	2			1 = WALKING
+						2 = WALKING_UPSTAIRS
+						3 = WALKING_DOWNSTAIRS
+						4 = SITTING
+						5 = STANDING
+						6 = LAYING
+means		3-70					Mean values, by subject/activity, of a variety of motional measurements
